@@ -1,0 +1,22 @@
+{
+  "name": "afterburn-theme",
+  "displayName": "Afterburn Theme",
+  "description": "Dark purple theme for the Afterburn project",
+  "version": "1.0.0",
+  "publisher": "morphoice",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Afterburn Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/afterburn-dark-color-theme.json"
+      }
+    ]
+  }
+}
