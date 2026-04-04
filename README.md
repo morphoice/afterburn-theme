@@ -8,10 +8,10 @@ Dark purple color theme for VS Code.
 
 ```bash
 # macOS / Linux
-git clone https://github.com/nicemice/afterburn-theme.git ~/.vscode/extensions/morphoice.afterburn-theme-1.0.0
+git clone https://github.com/morphoice/afterburn-theme.git ~/.vscode/extensions/morphoice.afterburn-theme-1.0.0
 
 # Windows
-git clone https://github.com/nicemice/afterburn-theme.git %USERPROFILE%\.vscode\extensions\morphoice.afterburn-theme-1.0.0
+git clone https://github.com/morphoice/afterburn-theme.git %USERPROFILE%\.vscode\extensions\morphoice.afterburn-theme-1.0.0
 ```
 
 Restart VS Code, then select the theme:
