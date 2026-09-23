@@ -1,0 +1,13 @@
+{
+  "background": "#0c071d",
+  "ground": "#151028",
+  "surface": "#1e1735",
+  "raised": "#2a2343",
+  "floating": "#373050",
+  "edge": "#443c5d",
+  "selection": "#524875",
+  "dimmed": "#6d638c",
+  "bright": "#b5acd2",
+  "accent": "#f59d08",
+  "text": "#d8d4ee"
+}

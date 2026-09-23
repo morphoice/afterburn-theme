@@ -38,3 +38,17 @@ git pull
 ```
 
 Restart VS Code to apply changes.
+
+## Palette
+
+`PALETTE.md` describes the surface scale the theme is built on;
+`palette.json` holds the same values for other tools (schema:
+`palette.schema.json`).
+
+## Claude Code extension
+
+`patch-claude-code.sh` recolours the Claude Code VS Code extension to the
+Afterburn accent (`#f59d08`) — brand orange, focus rings, the send button and
+the spinner in auto mode. It keeps the originals as `index.css.orig` /
+`index.js.orig`. Re-run it after every extension update, then
+**Developer: Reload Window**.

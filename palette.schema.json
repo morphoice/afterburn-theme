@@ -1,0 +1,10 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Afterburn palette",
+  "type": "object",
+  "additionalProperties": {
+    "type": "string",
+    "format": "color-hex",
+    "pattern": "^#[0-9a-fA-F]{6}([0-9a-fA-F]{2})?$"
+  }
+}
